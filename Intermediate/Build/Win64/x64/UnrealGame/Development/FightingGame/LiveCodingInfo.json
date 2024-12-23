@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.FightingGame.cpp.obj": [
+			"FightingGame.cpp.obj"
+		]
+	}
+}

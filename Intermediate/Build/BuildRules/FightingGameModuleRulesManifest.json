@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Marat\\OneDrive\\Документы\\Unreal Projects\\FightingGame\\Intermediate\\Source\\FightingGame.Build.cs",
+		"C:\\Users\\Marat\\OneDrive\\Документы\\Unreal Projects\\FightingGame\\Intermediate\\Source\\FightingGame.Target.cs",
+		"C:\\Users\\Marat\\OneDrive\\Документы\\Unreal Projects\\FightingGame\\Intermediate\\Source\\FightingGameClient.Target.cs",
+		"C:\\Users\\Marat\\OneDrive\\Документы\\Unreal Projects\\FightingGame\\Intermediate\\Source\\FightingGameEditor.Target.cs",
+		"C:\\Users\\Marat\\OneDrive\\Документы\\Unreal Projects\\FightingGame\\Intermediate\\Source\\FightingGameServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
